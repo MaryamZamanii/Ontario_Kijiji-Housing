@@ -1,5 +1,8 @@
 # Ontario_Kijiji-Housing
+
 Overview
+
+
 This project aims to predict the rental housing prices in Ontario using machine learning techniques. The prediction model is based on several key features extracted from rental listings on the Kijiji website, including the number of bedrooms, bathrooms, size (in square feet), type of property, and the name of the Census Subdivision (CSDNAME).
 
 Dataset
